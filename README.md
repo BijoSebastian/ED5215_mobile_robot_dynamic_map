@@ -1,5 +1,5 @@
 # mobile_robot_sim_setup
-Setup for simulating mobile robot in Coppleiasim(V-REP)
+Setup for simulating mobile robot in presence of moving obstacles in Coppleiasim(V-REP)
 
 ## Setup:
 OS: Windows 10 
